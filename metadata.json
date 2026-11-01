@@ -1,0 +1,6 @@
+{
+  "name": "Netflix Data Analytics - Interactive Dashboard & Project Portfolio",
+  "description": "Comprehensive data analytics project analyzing Netflix movies and TV shows using Python, SQL, Excel, and an interactive Power BI dashboard with live queries, pivot tables, and internship deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
